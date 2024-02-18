@@ -16,7 +16,7 @@ This is a simple python script that can shutdown your pc after a given number of
 
 ## Example
 
-```python
+```python 3.8
 Enter the number of seconds to shutdown your pc: 10
 Your pc will shutdown in 10 seconds.
 ```
