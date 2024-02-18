@@ -22,3 +22,5 @@ Your pc will shutdown in 10 seconds.
 ```
 
 ![WhatsApp Image 2024-02-18 at 16 09 54_249fcb30](https://github.com/prabirstack/sleep-timer/assets/90748055/4d1fd94f-a35d-4044-a45c-6b773eed2878)
+
+###add co Author Prabir Singh
